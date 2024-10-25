@@ -1,7 +1,3 @@
-Here’s the updated README with the "Screenshots" section replaced by a "Live Demo" section:
-
----
-
 # 🍴 Fork & Knife Restaurant Management System
 
 Fork & Knife is a comprehensive restaurant management system designed to streamline the operation of restaurants, offering a wide range of features for managing tables, orders, customers, menus, and staff efficiently.
