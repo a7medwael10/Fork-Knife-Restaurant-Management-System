@@ -131,7 +131,7 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## 📞 Contact
 
-Ahmed Wael - [LinkedIn](https://www.linkedin.com/in/your-profile) - ahmed.wael1025@gmail.com
+Ahmed Wael - [LinkedIn]((https://www.linkedin.com/in/a7med-wael/)) - ahmed.wael1025@gmail.com
 
 Project Link: [https://github.com/a7medwael10/Fork-Knife-Restaurant-Management-System](https://github.com/a7medwael10/Fork-Knife-Restaurant-Management-System)
 
