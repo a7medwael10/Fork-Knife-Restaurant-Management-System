@@ -136,5 +136,3 @@ Ahmed Wael - [LinkedIn](https://www.linkedin.com/in/a7med-wael/) - ahmed.wael102
 Project Link: [https://github.com/a7medwael10/Fork-Knife-Restaurant-Management-System](https://github.com/a7medwael10/Fork-Knife-Restaurant-Management-System)
 
 ---
-
-Let me know if you'd like to add any extra information for the live demo link or further details!
