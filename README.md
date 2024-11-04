@@ -104,7 +104,7 @@ After setting up the project, navigate to the homepage where you can start manag
 
 ## 🎥 Live Demo
 
-_You can access the live demo of the application here: [Fork & Knife Demo](#)_
+_You can access the live demo of the application here: [Fork & Knife Demo](https://drive.google.com/file/d/1Zwb7LU6khlpPQmK2ZR7KTdPOic7WZAFo/view?usp=sharing)_
 
 Make sure to explore all the features, including:
 
