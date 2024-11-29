@@ -1,3 +1,7 @@
+Here’s how the updated documentation will look with a section for the presentation link:
+
+---
+
 # 🍴 Fork & Knife Restaurant Management System
 
 Fork & Knife is a comprehensive restaurant management system designed to streamline the operation of restaurants, offering a wide range of features for managing tables, orders, customers, menus, and staff efficiently.
@@ -10,6 +14,7 @@ Fork & Knife is a comprehensive restaurant management system designed to streaml
 - [Installation](#installation)
 - [Usage](#usage)
 - [Live Demo](#live-demo)
+- [Presentation](#presentation)
 - [Contributing](#contributing)
 - [Contact](#contact)
 
@@ -115,6 +120,14 @@ Make sure to explore all the features, including:
 
 ---
 
+## 📄 Presentation
+
+For a detailed overview of the project, including its objectives, features, and future plans, check out the presentation:
+
+[📂 Fork & Knife Presentation](https://drive.google.com/file/d/1Jq5k_UYRrqoLnQB1xu2xA3vyFo1506cj/view?usp=sharing)
+
+---
+
 ## 🤝 Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -127,8 +140,6 @@ Contributions are what make the open-source community such an amazing place to l
 
 ---
 
----
-
 ## 📞 Contact
 
 Ahmed Wael - [LinkedIn](https://www.linkedin.com/in/a7med-wael/) - ahmed.wael1025@gmail.com
@@ -136,3 +147,5 @@ Ahmed Wael - [LinkedIn](https://www.linkedin.com/in/a7med-wael/) - ahmed.wael102
 Project Link: [https://github.com/a7medwael10/Fork-Knife-Restaurant-Management-System](https://github.com/a7medwael10/Fork-Knife-Restaurant-Management-System)
 
 ---
+
+Replace `your-presentation-link-here` with the actual Google Drive link to the presentation.
