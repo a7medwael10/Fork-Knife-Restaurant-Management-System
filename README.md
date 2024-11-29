@@ -5,7 +5,6 @@ Fork & Knife is a comprehensive restaurant management system designed to streaml
 ## 📋 Table of Contents
 
 - [About the Project](#about-the-project)
-- [Presentaion](#presentaion)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
@@ -19,13 +18,6 @@ Fork & Knife is a comprehensive restaurant management system designed to streaml
 ## 📝 About the Project
 
 The **Fork & Knife Restaurant Management System** is built to facilitate restaurant operations by providing a simple and intuitive interface for managing reservations, customer orders, and menu items. This project aims to enhance productivity by automating several processes and ensuring that restaurant staff can focus more on delivering an exceptional customer experience.
-
-
----
-
-## Presentaion
-
-See our presentaion - [Canva]([https://www.linkedin.com/in/a7med-wael/](https://www.canva.com/design/DAGUeyeJJeE/-chf-yCXzkwJRS6LrVXMww/edit?utm_content=DAGUeyeJJeE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 
 ---
 
