@@ -25,7 +25,7 @@ The **Fork & Knife Restaurant Management System** is built to facilitate restaur
 
 ## Presentaion
 
-Presentaion - [Canva]([https://www.linkedin.com/in/a7med-wael/](https://www.canva.com/design/DAGUeyeJJeE/-chf-yCXzkwJRS6LrVXMww/edit?utm_content=DAGUeyeJJeE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+See our presentaion - [Canva]([https://www.linkedin.com/in/a7med-wael/](https://www.canva.com/design/DAGUeyeJJeE/-chf-yCXzkwJRS6LrVXMww/edit?utm_content=DAGUeyeJJeE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 
 ---
 
